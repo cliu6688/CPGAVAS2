@@ -1,6 +1,5 @@
 # CPGAVAS2
 CPGAVAS2, an integrated plastome sequence annotator and analyzer
-CPGAVAS2: An Integrated Plastome Sequence Annotator and Analyzer for Enhanced Chloroplast Research
 
 As the study of plastome sequences continues to advance, the need for robust and user-friendly tools to facilitate accurate annotation and analysis of chloroplast genomes has become increasingly apparent. CPGAVAS2 emerges as a powerful solution, providing an integrated platform to streamline chloroplast research and accelerate scientific discoveries.
 
